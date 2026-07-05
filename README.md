@@ -1,57 +1,21 @@
-# Developer Playground
+# Playground
 
-Welcome!
+The Playground is my place to experiment.
 
-This repository is where I experiment while learning software
-development.
+It exists to explore ideas, practice new concepts, and transform what I learn into small, tangible projects.
 
-You'll find:
+Some sections are already populated. Others remain empty, waiting for the right lesson, the right idea, or simply the right moment to be built.
 
-- HTML practice
-- CSS experiments
-- JavaScript exercises
-- Algorithms
-- Small ideas
-- Things that broke
-- Things that eventually worked
+I intentionally built the structure before filling it.
 
-If you're looking for polished portfolio projects,
-those live in my other repositories.
+The structure comes first.
 
-This place is for learning.
+The projects come next.
 
+Each folder represents a chapter.
 
+Each project captures what I understood at that point in time.
 
+The Playground isn't meant to showcase perfection.
 
-# Mental map of how would it be as I progress, please don't mind it. 
-
-```
-playground/        <-- Git repository starts here
-│
-├── .git/
-├── README.md
-├── index.html
-│
-├── html/
-│   ├── forms/
-│   ├── tables/
-│   └── semantic-elements/
-│
-├── css/
-│   ├── flexbox/
-│   ├── grid/
-│   └── animations/
-│
-├── javascript/
-│   ├── arrays/
-│   ├── objects/
-│   ├── promises/
-│   └── fetch-api/
-│
-├── algorithms/
-│   ├── fizzbuzz/
-│   ├── palindrome/
-│   └── binary-search/
-│
-└── random-ideas/
-```
+It's meant to document progress—one project, one lesson, and one commit at a time.
